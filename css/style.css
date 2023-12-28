@@ -46,6 +46,10 @@ body {
   letter-spacing: .1em;
 }
 
+.menu a:hover{
+  color: white
+}
+
 .grid-section {
   grid-column: 2 / 4;
   width: 100%;
